@@ -1,0 +1,47 @@
+html,body{
+    background-color: #F8F8F8;
+    padding-right: 15px;
+    padding-left: 15px;
+
+}
+
+.row{
+    margin-top: 50px;
+}
+
+.heading{
+    font-size: xx-large;
+    color: white !important;
+}
+
+.font{
+    font-family: Calistoga;
+}
+.link{
+    color:red;
+}
+
+.fixed{
+    position:sticky;
+}
+
+.footer{
+    color: #F8F8F8;
+}
+
+.img{
+    border-radius: 50%;
+    height:100px;
+    width:100px;
+}
+
+#img1{
+    top:1%;
+}
+#img2{
+    top:380px;
+}
+
+i{
+    padding:3px;
+}
